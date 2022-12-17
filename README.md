@@ -1,4 +1,4 @@
-# CS-31-Introduction-to-Computer-Science-
+# CS 31: Introduction to Computer Science I
 Projects for CS 31, Introduction to Computer Science I, taught by Professor David Smallberg in Fall 2020
 
 Topics: 
